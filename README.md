@@ -1,3 +1,1 @@
 # multibranchPipeline-project
-
-Hello world
